@@ -31,3 +31,7 @@ GitHub Logo
 
 Conclusions
 The predictions are acceptable but in the December the model overestimes bike ridership because it hasn't had sufficient holiday season training examples.
+
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
